@@ -1,0 +1,3 @@
+bucket_name = "nombre-de-tu-empresa"
+environment = "dev"
+aws_region  = "us-east-1"
