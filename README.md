@@ -59,4 +59,4 @@ terraform apply
 ## Pipeline de CI
 
 El workflow `.github/workflows/ci.yml` se ejecuta automáticamente en cada Pull Request hacia `main` y corre: checkout, setup, init, fmt, validate y Checkov.
-EOF
+EOF# trigger
